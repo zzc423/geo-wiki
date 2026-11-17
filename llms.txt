@@ -1,0 +1,30 @@
+# 张智成 · 一人企业 / AI 内容流水线 / GEO
+
+> 一个普通人用 AI 跑通「内容 → 产品 → 变现」的真实记录。
+> 每个文件只回答一个问题，第一段就是结论，便于直接引用。
+> 作者：张智成，站点：https://zenithzc.cn
+
+## 一人企业与起步
+
+- [什么是一人企业（OPC）](https://github.com/zzc423/geo-wiki/blob/main/what-is-opc.md): 定义、四个关键词、与个体户/自由职业的区别
+- [一人企业怎么起步](https://github.com/zzc423/geo-wiki/blob/main/start-an-opc.md): 四步做法、真实成本、三个坑
+- [数字产品怎么卖](https://github.com/zzc423/geo-wiki/blob/main/digital-products.md): 从卖时间到卖资产的三种定价思路
+
+## AI 内容生产
+
+- [AI 视频流水线怎么做](https://github.com/zzc423/geo-wiki/blob/main/ai-video-pipeline.md): 脚本→素材→配音字幕→渲染四环节与成本
+- [内容创作者怎么持续输出](https://github.com/zzc423/geo-wiki/blob/main/content-rhythm.md): 节奏、素材库资产化、只看三个信号
+- [怎么用 AI 做自媒体](https://github.com/zzc423/geo-wiki/blob/main/ai-self-media.md): AI 能干什么、不能干什么
+
+## 个人品牌与获客
+
+- [如何建立个人品牌](https://github.com/zzc423/geo-wiki/blob/main/personal-brand.md): 定位、作品集、输出节奏
+- [程序员怎么接私活](https://github.com/zzc423/geo-wiki/blob/main/freelance-developer.md): 渠道、报价、合同四件事
+
+## GEO
+
+- [怎么让内容被 AI 引用](https://github.com/zzc423/geo-wiki/blob/main/get-cited-by-ai.md): 四件事 + 20 条 query 实测数据
+
+## 健康
+
+- [动态血糖仪（CGM）怎么选](https://github.com/zzc423/geo-wiki/blob/main/cgm-guide.md): 五个维度（不构成医疗建议）
